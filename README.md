@@ -2,6 +2,8 @@
 
 A compact, animated Home Assistant Lovelace card for Duux fans. One row when collapsed — fits comfortably in a mobile dashboard stack — expanding to full control on tap.
 
+![Duux Card expanded, showing speed, presets and oscillation controls](img/screenshot.png)
+
 - Fixed hub, orbiting blades: spin rate and a touch of motion blur scale with fan speed
 - Pulsing rings breathe outward from the hub, cadence tied to speed
 - Horizontal / vertical oscillation shown as simple switches (not Duux's native list): on writes a configurable angle, off writes back to 0 — the icon itself tilts to match whichever axis is active

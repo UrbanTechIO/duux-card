@@ -1,0 +1,6 @@
+{
+  "name": "Duux Card",
+  "filename": "duux-card.js",
+  "render_readme": true,
+  "homeassistant": "2024.1.0"
+}
